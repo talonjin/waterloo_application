@@ -61,3 +61,33 @@ I coached my school swim team and qualified for OFSAA with four other teammates.
 | Certification   | Lifesaving Instructor           |           |                            |
 | Certification   | Standard First Aid With CPR- C           |           |                            |
 | Certification   | Swim Instructor           |           |                            |
+
+
+## About You - Part B
+
+### Question 1: Circumstances
+
+>Are there any issues or circumstances (e.g., medical, personal, or financial) that may have affected your academic record? If YES, please describe the circumstances in detail below. We are particularly interested in issues or circumstances that directly affected your academic performance and that led to a rise or drop in grades or to changes in your academical or personal goals. (900 character limit)
+
+N/A
+
+### Question 2: Institution(s) Attended
+
+> The name and location of the secondary or post-secondary school(s) you are now attending or have attended should be listed below. Are any secondary or post-secondary schools missing from the list? If yes, please add them in the space below.
+
+Yes/No
+Vaughan Secondary School
+Emily Carr Secondary School
+
+
+### Question 3: Post-secondary Education
+
+> Have you taken or are you crrently taking courses at a college or university? If yes, give the name of the college or university, the start and end dates of your studies there, and the number of courses you took. You are required to submit all official final college or university transcripts
+
+No
+
+### Question 4: Additional Information
+
+> In addition to the specified information requested in all of the AIF questions, please tell us anything else bout yourself that you would like us to know when we review your application. Please make sure to complete all sections of the AIF before  submitting this page. (900 character limit)
+
+I’ve always believed that being a well-rounded student stems far beyond a classroom. Thus, I always strive for new opportunities to learn and grow to become a better version of myself. Apart from school, swimming has taught me many life skills. Mainly, it has taught me to never give up and to always work hard to overcome adversity. Whether that means giving it 110% on every lap or managing my time effectively with school, I’ve learned that the work you put in reflects the results you receive. Leadership is also important, which is why I took the opportunity to work as a swim instructor, coach my school swim team and join leadership camps. Through leadership, I’ve learned that I can inspire and motivate others. I’ve also joined many athletic teams which taught me how to cooperate and work with others. This is important as teamwork is a key skill to have to be successful anywhere in life.
