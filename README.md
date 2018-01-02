@@ -38,10 +38,7 @@ I coached and swam for my school swim team helping 4 students and myself qualify
 
 | Employer | Job Title | Brief Description of Work | Hrs/Wk | Start Date | End Date |
 | -------- | --------- | ------------------------- | ------ | ---------- | -------- |
-| Vaughan Community Centre
-(Christine Carlini-Griffo) | Swim Instructor | I’m a certified swim instructor and have enjoyed teaching over 40 different swimmers, from parent & tot to swimmer 6. Most of all, I enjoyed and admired teaching impaired swimmers because it provided a new challenge along with different teaching strategies. 
-Providing smiles to each swimmer as well as improving their swimming capabilities and more importantly their water safety was the best part of the job.
-At the end of each lesson I communicated with each swimmer’s parents about what they did well and various areas of improvement. Using my communication skills I was able to pass/fail swimmers without any complaints. | 6 | | |
+| Vaughan Community Centre <br>(Christine Carlini-Griffo) | Swim Instructor | I’m a certified swim instructor and have enjoyed teaching over 40 different swimmers, from parent & tot to swimmer 6. Most of all, I enjoyed and admired teaching impaired swimmers because it provided a new challenge along with different teaching strategies. <br><br>Providing smiles to each swimmer as well as improving their swimming capabilities and more importantly their water safety was the best part of the job. <br><br>At the end of each lesson I communicated with each swimmer’s parents about what they did well and various areas of improvement. Using my communication skills I was able to pass/fail swimmers without any complaints. | 6 | | |
 
 ### Question 5: Special Achievements, distinctions, and awards
 
